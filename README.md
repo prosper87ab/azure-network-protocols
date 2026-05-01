@@ -11,6 +11,12 @@ A Windows Server was configured as a Domain Controller hosting the domain (corp.
 
 
 ---
+🎯 Objectives
+1. Simulate a real corporate Active Directory environment
+2. Gain hands-on experience with identity lifecycle management
+3. Practice IT Help Desk and IAM-related tasks
+4. Understand authentication and authorization in AD
+5. Build a portfolio project that demonstrates job-ready skills
 
 ## 📺 Demo Walkthrough
 
