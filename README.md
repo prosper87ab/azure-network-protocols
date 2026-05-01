@@ -1,5 +1,6 @@
 # 🏢 Active Directory Home Lab Project (Enterprise Simulation)
 
+📌 Project Overview
 
 The goal of this project was to simulate a real-world enterprise IT environment by deploying and managing an on-premises Active Directory Domain Services (AD DS) infrastructure in a cloud-based lab.
 
@@ -7,7 +8,7 @@ This project demonstrates how organizations centrally manage identities, enforce
 
 A Windows Server was configured as a Domain Controller hosting the domain (corp.local), with multiple client machines joined to replicate a corporate network environment.
 
-📌 Project Overview
+
 ---
 
 ## 📺 Demo Walkthrough
