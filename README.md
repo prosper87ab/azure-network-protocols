@@ -10,7 +10,7 @@ In this hands-on project I demonstrate how to build and deploy custom SAML 2.0 S
 
 ## 📺 Demo Walkthrough
 
-- ### [Watch me demonstrate this live Demo Video 🚀](https://youtu.be/xrEw5SQhKI8)
+- ### [Watch me demonstrate from inside my LAB 🚀](https://youtu.be/xrEw5SQhKI8)
 
 ---
 
