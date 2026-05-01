@@ -1,11 +1,11 @@
-# Custom App Integration with Okta (SAML 2.0)
-**Python Flask · SAML 2.0 · Okta · Active Directory · Windows Server**
+# 🏢 Active Directory Home Lab Project (Enterprise Simulation)
+
 
 Hi,
 
 In this hands-on project I demonstrate how to build and deploy custom SAML 2.0 Service Provider (SP) applications integrate them with Okta as the Identity Provider (IdP). This is hosted on a Windows Server domain controller running an on-premises Active Directory environment.
 
-
+📌 Project Overview
 ---
 
 ## 📺 Demo Walkthrough
