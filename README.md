@@ -20,7 +20,7 @@ A Windows Server was configured as a Domain Controller hosting the domain (corp.
 
 
 🛠️ Technologies & Tools Used
-. Windows Server 2019 / 2022
+. Windows Server 2019 / 2022  
 . Active Directory Domain Services (AD DS)
 . Group Policy Management (GPO)
 . Microsoft Azure (Virtual Machines) (or VirtualBox/VMware if applicable)
