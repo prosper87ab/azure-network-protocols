@@ -18,6 +18,15 @@ A Windows Server was configured as a Domain Controller hosting the domain (corp.
 4. Understand authentication and authorization in AD
 5. Build a portfolio project that demonstrates job-ready skills
 
+
+🛠️ Technologies & Tools Used
+. Windows Server 2019 / 2022
+. Active Directory Domain Services (AD DS)
+. Group Policy Management (GPO)
+. Microsoft Azure (Virtual Machines) (or VirtualBox/VMware if applicable)
+. PowerShell (for automation)
+. Remote Desktop Protocol (RDP)
+
 ## 📺 Demo Walkthrough
 
 - ### [Watch me demonstrate from inside my LAB 🚀](https://youtu.be/xrEw5SQhKI8)
