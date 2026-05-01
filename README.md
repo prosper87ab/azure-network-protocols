@@ -6,6 +6,7 @@ The goal of this project was to simulate a real-world enterprise IT environment 
 This project demonstrates how organizations centrally manage identities, enforce access control, and support day-to-day IT operations such as user provisioning, authentication, and troubleshooting.
 
 A Windows Server was configured as a Domain Controller hosting the domain (corp.local), with multiple client machines joined to replicate a corporate network environment.
+
 📌 Project Overview
 ---
 
